@@ -1,10 +1,9 @@
 # 💫 About Me:
 Hi! I’m Juan 👋 Data Analyst at Banco Patagonia!
-⁣⁣<br>I have experience as a Real Estate Data Analyst and Data Scientist at Moody's Analytics (2021-2024) and currently serve as a Data Mining instructor at ISTEA, as well as a Data Analytics instructor at Coderhouse and Icaro.
+⁣⁣<br>I have experience as a finance Data Analyst dy's Analytics (2023- a.
 
-I earned my Bachelor’s degree in Economics in 2023 and a postgraduate degree in Data Science (specialization degree) in 2025 from the National University of La Matanza. Currently, pursuing a PhD in Computer Science at the same University. I also hold certifications in Machine Learning and Cloud (Azure-AWS).
+I earned my Bachelor’s degree in Marketing in 2024. Currently, pursuing a .
 
-I’m deeply passionate about research, with approximately four years of experience assisting university-level research projects.
 
 I define myself as a detail-oriented economist who loves staying up to date with the latest industry trends and technologies.
 
